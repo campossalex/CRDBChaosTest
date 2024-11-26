@@ -1,0 +1,11 @@
+{
+	"regional_disruptor_specifications": [
+		{
+			"region_code": "<region_name>",
+			"is_whole_region": <true_or_false>,
+			"pods": [
+				"<node_name_1>", "<node_name_2>", "<node_name_3>"
+			]
+		}
+	]
+}
